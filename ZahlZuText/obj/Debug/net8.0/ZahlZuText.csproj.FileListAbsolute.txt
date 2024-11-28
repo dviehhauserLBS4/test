@@ -12,3 +12,4 @@ C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\r
 C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.pdb
 C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.genruntimeconfig.cache
 C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ref\ZahlZuText.dll
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.sourcelink.json
