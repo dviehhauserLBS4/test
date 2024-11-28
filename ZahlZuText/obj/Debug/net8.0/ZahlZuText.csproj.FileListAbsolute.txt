@@ -1,0 +1,14 @@
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\bin\Debug\net8.0\ZahlZuText.exe
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\bin\Debug\net8.0\ZahlZuText.deps.json
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\bin\Debug\net8.0\ZahlZuText.runtimeconfig.json
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\bin\Debug\net8.0\ZahlZuText.dll
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\bin\Debug\net8.0\ZahlZuText.pdb
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.AssemblyInfoInputs.cache
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.AssemblyInfo.cs
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.csproj.CoreCompileInputs.cache
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.dll
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\refint\ZahlZuText.dll
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.pdb
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ZahlZuText.genruntimeconfig.cache
+C:\Users\david.viehhauser\RiderProjects\ZahlZuText\ZahlZuText\obj\Debug\net8.0\ref\ZahlZuText.dll
